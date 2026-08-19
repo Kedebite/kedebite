@@ -1,4 +1,4 @@
-![Photo](photo.jpg)
+
 
 # Ahmad Kedebi
 
