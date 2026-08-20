@@ -51,7 +51,7 @@ The goal is to demonstrate how a cloud security engineer designs, automates, and
 | Project | Notes |
 |---|---|
 | [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Kedebite/configure-ad) | Screenshots — Complete |
-| Network Security Groups (NSGs) & Network Protocol Analysis | Wireshark — In Progress |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/Kedebite/nsg-wireshark-analysis) | Wireshark — Complete |
 | Basic DNS Configuration & Testing | Azure — Queued |
 
 ---
