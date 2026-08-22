@@ -1,8 +1,7 @@
-![Photo](photo.jpg)
 
 # Ahmad Kedebi
 
-*Cloud Security Engineer | AWS IAM, Automation & Incident Response*
+                                                 *Cloud Security Engineer | IAM*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmad-kedebi-27163822b)
 
