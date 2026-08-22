@@ -1,5 +1,4 @@
-
-# Ahmad Kedebi
+  # Ahmad Kedebi
 
 *Cloud Security Engineer|IAM*
 
@@ -21,17 +20,17 @@ The goal is to demonstrate how a cloud security engineer designs, automates, and
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| [AWS IAM Security Auditor](https://github.com/Kedebite/aws-iam-security-auditor) | Screenshots | Automated AWS IAM Security Auditor for policies, roles, and least-privilege violations | AWS IAM, Python, Lambda, EventBridge, SNS | Complete |
-| [Automated Security Incident Response Pipeline](https://github.com/Kedebite/automated-security-incident-response) | Screenshots | Automated AWS security incident detection and response pipeline | AWS Lambda, EventBridge, SNS, Python | Complete |
-| [IAM Security Portfolio](https://github.com/Kedebite/iam-security-portfolio) | — | AWS IAM Engineer learning portfolio — policies, roles, and security labs | AWS IAM | In Progress |
-| SaaS App Integration w/ Okta (SAML) | — | Pre-requisite lab for identity federation labs | Okta, SAML | Queued |
-| RBAC Implementation w/ Okta | — | Demonstrates well-designed role-based access control | AD, Okta, SAML | Queued |
-| Automated JML w/ Cert-Based AuthN | — | Automates joiner-mover-leaver lifecycle between AD and Okta using RSA-signed JWTs | AD, Okta PowerShell, OAuth 2.0, RSA, JWT | Queued |
-| Entra ID & AD Configuration | — | Hybrid environment configuration with Conditional Access, MFA, and multi-protocol AuthN | Active Directory, Entra ID, Entra Connect, Conditional Access, MFA | Queued |
-| SSO & SCIM Automation: SaaS Provisioning/Deprovisioning | — | Integrates SaaS apps with SSO and automates user lifecycle provisioning | Entra ID, Okta, SAML, OIDC, SCIM | Queued |
-| Access Reviews: Certification and Audit Workflow | — | Simulates periodic access reviews with audit logs for compliance | Entra ID, Access Reviews, Audit Logs, CSV | Queued |
-| Privileged Access: Just-in-Time Role Elevation (PIM) | — | Temporary elevated access with approval workflow and auto-expiration | Entra ID, PIM, Approval Workflow, JIT | Queued |
-| Identity Monitoring: Risky Sign-Ins and Incident Response | — | Detects and investigates suspicious login activity | Entra ID, Sign-In Logs, Sentinel, KQL | Queued |
+| [AWS IAM Security Auditor](https://github.com/Kedebite/aws-iam-security-auditor) | Screenshots | Automated AWS IAM Security Auditor for policies, roles, and least-privilege violations | AWS IAM, Python, Lambda, EventBridge, SNS | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [Automated Security Incident Response Pipeline](https://github.com/Kedebite/automated-security-incident-response) | Screenshots | Automated AWS security incident detection and response pipeline | AWS Lambda, EventBridge, SNS, Python | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [IAM Security Portfolio](https://github.com/Kedebite/iam-security-portfolio) | — | AWS IAM Engineer learning portfolio — policies, roles, and security labs | AWS IAM | ![In Progress](https://img.shields.io/badge/In%20Progress-dbab09?style=flat-square) |
+| SaaS App Integration w/ Okta (SAML) | — | Pre-requisite lab for identity federation labs | Okta, SAML | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| RBAC Implementation w/ Okta | — | Demonstrates well-designed role-based access control | AD, Okta, SAML | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Automated JML w/ Cert-Based AuthN | — | Automates joiner-mover-leaver lifecycle between AD and Okta using RSA-signed JWTs | AD, Okta PowerShell, OAuth 2.0, RSA, JWT | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Entra ID & AD Configuration | — | Hybrid environment configuration with Conditional Access, MFA, and multi-protocol AuthN | Active Directory, Entra ID, Entra Connect, Conditional Access, MFA | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| SSO & SCIM Automation: SaaS Provisioning/Deprovisioning | — | Integrates SaaS apps with SSO and automates user lifecycle provisioning | Entra ID, Okta, SAML, OIDC, SCIM | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Access Reviews: Certification and Audit Workflow | — | Simulates periodic access reviews with audit logs for compliance | Entra ID, Access Reviews, Audit Logs, CSV | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Privileged Access: Just-in-Time Role Elevation (PIM) | — | Temporary elevated access with approval workflow and auto-expiration | Entra ID, PIM, Approval Workflow, JIT | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Identity Monitoring: Risky Sign-Ins and Incident Response | — | Detects and investigates suspicious login activity | Entra ID, Sign-In Logs, Sentinel, KQL | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
 
 ---
 
@@ -39,30 +38,30 @@ The goal is to demonstrate how a cloud security engineer designs, automates, and
 
 ### Help Desk (osTicket)
 
-| Project | Notes |
-|---|---|
-| Prerequisites & Installation | Queued |
-| Post-Installation Configuration | Queued |
-| Ticket Lifecycle & SLAs | Queued |
+| Project | Notes | Status |
+|---|---|---|
+| Prerequisites & Installation | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Post-Installation Configuration | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Ticket Lifecycle & SLAs | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
 
 ### Microsoft Azure / Active Directory
 
-| Project | Notes |
-|---|---|
-| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Kedebite/configure-ad) | Screenshots — Complete |
-| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/Kedebite/nsg-wireshark-analysis) | Wireshark — Complete |
-| Basic DNS Configuration & Testing | Azure — Queued |
+| Project | Notes | Status |
+|---|---|---|
+| [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Kedebite/configure-ad) | Screenshots | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [Network Security Groups (NSGs) & Network Protocol Analysis](https://github.com/Kedebite/nsg-wireshark-analysis) | Wireshark | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [Basic DNS Configuration & Testing](https://github.com/Kedebite/basic-dns-configuration) | Azure | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ---
 
 ## 3 · Security Projects
 
-| Project | Focus |
-|---|---|
-| Internal Security Audit — Botium Toys | Risk assessment, audit evidence, mitigation — Queued |
-| Python Algorithm — User Access Management | Scripted RBAC logic — Queued |
-| SQL Security Investigation — Login & Machine Access Patterns | Threat analysis, access logs — Queued |
-| Linux — Enforcing Least Privilege via File Permissions | Hardening, principle of least privilege — Queued |
+| Project | Focus | Status |
+|---|---|---|
+| Internal Security Audit — Botium Toys | Risk assessment, audit evidence, mitigation | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Python Algorithm — User Access Management | Scripted RBAC logic | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| SQL Security Investigation — Login & Machine Access Patterns | Threat analysis, access logs | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| Linux — Enforcing Least Privilege via File Permissions | Hardening, principle of least privilege | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
 
 ---
 
