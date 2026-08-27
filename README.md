@@ -40,9 +40,9 @@ The goal is to demonstrate how a cloud security engineer designs, automates, and
 
 | Project | Notes | Status |
 |---|---|---|
-| Prerequisites & Installation | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
-| Post-Installation Configuration | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
-| Ticket Lifecycle & SLAs | — | ![Queued](https://img.shields.io/badge/Queued-808080?style=flat-square) |
+| [Prerequisites & Installation](https://github.com/Kedebite/osticket-prerequisites-installation) | Screenshots | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [Post-Installation Configuration](https://github.com/Kedebite/osticket-post-installation-configuration) | Screenshots | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [Ticket Lifecycle & SLAs](https://github.com/Kedebite/osticket-ticket-lifecycle-sla) | Screenshots | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 ### Microsoft Azure / Active Directory
 
