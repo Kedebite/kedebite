@@ -8,11 +8,16 @@
 
 ### Portfolio Note
 
-The projects in this portfolio are intentionally designed to simulate the real workflows of a **cloud security and identity & access management (IAM) professional** working in AWS and hybrid environments.
+The projects in this portfolio are designed to simulate the **real-world workflows of an IT Support and Help Desk professional** working in modern Windows, cloud, and hybrid IT environments.
 
-Each project focuses on practical security tasks such as **IAM policy auditing, automated incident response, intrusion detection, domain infrastructure, RBAC design, and access governance**, using AWS-native services, Windows Server/Active Directory, scripting, and security best practices.
+Each project focuses on practical IT support tasks such as **troubleshooting hardware and software issues, user account management, Windows administration, networking, Active Directory, Microsoft 365, system monitoring, access management, and basic security operations**.
 
-The goal is to demonstrate how a cloud security engineer designs, automates, and monitors identity and infrastructure security at scale.
+The portfolio demonstrates my ability to **diagnose technical problems, support users, manage IT environments, document solutions, automate repetitive tasks, and follow security best practices**.
+
+Some projects also incorporate **AWS, IAM, cybersecurity, and automation** to demonstrate my understanding of how IT support connects with cloud infrastructure and enterprise security.
+
+The goal is to demonstrate that I can provide reliable **first-line and second-line technical support**, troubleshoot problems efficiently, communicate clearly with users, and grow into more advanced roles such as **Systems Administrator, Cloud Support Engineer, IAM Analyst, or Cloud Security Engineer**.
+
 
 ---
 
